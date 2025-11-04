@@ -1,4 +1,4 @@
-# 💻 Sweety’s Cybersecurity & Ethical Hacking Labs
+#  Sweety’s Cybersecurity & Ethical Hacking Labs
 
 Welcome to my cybersecurity learning journey! 🔐  
 This repository documents all my hands-on practice, notes, and projects while learning **Ethical Hacking, Linux, and Cybersecurity**.  
@@ -6,7 +6,7 @@ I’m currently pursuing my **Google Cybersecurity Professional Certificate** an
 
 ---
 
-## 🌱 Current Focus (Nov 2025 - June 2026)
+##  Current Focus (Nov 2025 - June 2026)
 - Completing Google Cybersecurity Certificate (Coursera)
 - Learning Linux system administration & networking fundamentals
 - Practicing TryHackMe rooms and documenting walkthroughs
@@ -15,7 +15,7 @@ I’m currently pursuing my **Google Cybersecurity Professional Certificate** an
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 sweety-cyber-labs/
 ├── google-cert/ # Notes & screenshots from Google Cybersecurity course
@@ -28,21 +28,12 @@ sweety-cyber-labs/
 
 ---
 
-## 🧠 Tools & Technologies
+##  Tools & Technologies
 - Linux (Ubuntu / Kali)
 - Nmap, Wireshark, Burp Suite, Metasploit
 - SQL, Bash scripting, Python (basic)
 - TryHackMe, HackTheBox (Labs)
 - Git & GitHub for version control
-
----
-
-## 📈 Progress Tracker
-| Date | Activity | Status |
-|------|-----------|--------|
-| Nov 2025 | Created this repository & started Google Cybersecurity course | ✅ |
-| Nov 2025 | Completed first TryHackMe room (Pre-Security) | 🔄 |
-| ... | ... | ... |
 
 ---
 
