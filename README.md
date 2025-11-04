@@ -1,4 +1,4 @@
-#  Sweety’s Cybersecurity & Ethical Hacking Labs
+#  Vaishnavi’s Cybersecurity & Ethical Hacking Labs
 
 Welcome to my cybersecurity learning journey!   
 This repository documents all my hands-on practice, notes, and projects while learning **Ethical Hacking, Linux, and Cybersecurity**.  
@@ -17,7 +17,7 @@ I’m currently pursuing my **Google Cybersecurity Professional Certificate** an
 
 ##  Repository Structure
 
-sweety-cyber-labs/
+vaishnavi-cyber-labs/
 ├── google-cert/ # Notes & screenshots from Google Cybersecurity course
 ├── tryhackme/ # Writeups and reports from TryHackMe rooms
 ├── linux-basics/ # Commands, scripts, and exercises
