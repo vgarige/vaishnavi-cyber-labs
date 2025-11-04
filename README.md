@@ -1,6 +1,6 @@
 #  Sweety’s Cybersecurity & Ethical Hacking Labs
 
-Welcome to my cybersecurity learning journey! 🔐  
+Welcome to my cybersecurity learning journey!   
 This repository documents all my hands-on practice, notes, and projects while learning **Ethical Hacking, Linux, and Cybersecurity**.  
 I’m currently pursuing my **Google Cybersecurity Professional Certificate** and building practical skills through **TryHackMe labs, Linux projects, and real-world security tools**.
 
@@ -37,8 +37,8 @@ sweety-cyber-labs/
 
 ---
 
-## ✨ About Me
-I’m Sweety — a final-year B.Sc. Computer Science student passionate about **cybersecurity and ethical hacking**.  
-My goal is to become a **Cybersecurity Analyst / Ethical Hacker** and help make digital systems safer. 💪  
+##  About Me
+I’m Vaishnavi Garige — a final-year B.Sc. Computer Science student passionate about **cybersecurity and ethical hacking**.  
+My goal is to become a **Cybersecurity Analyst / Ethical Hacker** and help make digital systems safer.   
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-garige-6803722ab/) or check out my projects here as I grow my skills! 🌸
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-garige-6803722ab/) or check out my projects here as I grow my skills! 
